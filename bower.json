@@ -1,0 +1,24 @@
+{
+  "name": "Curriculum Vitae",
+  "version": "0.0.1",
+  "homepage": "http://mradovac.com",
+  "authors": [
+    "Mario Radovac <mario_radovac@yahoo.de>"
+  ],
+  "description": "Curriculum Vitae - Mario Radovacc",
+  "keywords": [
+    "cv",
+    "curriculum",
+    "vitae",
+    "mario",
+    "radovac"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
